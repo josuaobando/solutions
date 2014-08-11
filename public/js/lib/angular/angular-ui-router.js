@@ -510,7 +510,7 @@ if (typeof module !== "undefined" && typeof exports !== "undefined" && module.ex
    * @requires $injector
    *
    * @description
-   * Service. Manages loading of templates.
+   * Service. Manages loading of pages.
    */
   $TemplateFactory.$inject = ['$http', '$templateCache', '$injector'];
   function $TemplateFactory(  $http,   $templateCache,   $injector) {
@@ -2534,7 +2534,7 @@ if (typeof module !== "undefined" && typeof exports !== "undefined" && module.ex
    * @restrict ECA
    *
    * @description
-   * The ui-view directive tells $state where to place your templates.
+   * The ui-view directive tells $state where to place your pages.
    *
    * @param {string=} ui-view A view name. The name should be unique amongst the other views in the
    * same state. You can have views of the same name that live in different states.
