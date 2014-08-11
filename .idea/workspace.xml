@@ -40,7 +40,7 @@
       <file leaf-file-name="loginLayout.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/html/general/loginLayout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="505" selection-end="505" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="816">
+            <state line="4" column="24" selection-start="119" selection-end="119" vertical-scroll-proportion="-2.3076923" vertical-offset="8" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2026" column="17" selection-start="50226" selection-end="50226" vertical-scroll-proportion="0.95679796" vertical-offset="33689" max-vertical-offset="35241">
+            <state line="1488" column="53" selection-start="31018" selection-end="31018" vertical-scroll-proportion="0.40162823" vertical-offset="25000" max-vertical-offset="35411">
               <folding />
             </state>
           </provider>
@@ -109,8 +109,8 @@
         <option value="$PROJECT_DIR$/public/html/templates/renewPassword.html" />
         <option value="$PROJECT_DIR$/public/html/templates/mainLayout.html" />
         <option value="$PROJECT_DIR$/public/app.js" />
-        <option value="$PROJECT_DIR$/public/html/general/loginLayout.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/html/general/loginLayout.html" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
       </list>
     </option>
@@ -296,7 +296,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="17" width="1252" height="957" extended-state="1" />
+    <frame x="8" y="17" width="1252" height="957" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -570,13 +570,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/html/general/loginLayout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="505" selection-end="505" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="44" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-12.923077" vertical-offset="106" max-vertical-offset="1207">
@@ -589,9 +582,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/html/general/loginLayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="119" selection-end="119" vertical-scroll-proportion="-2.3076923" vertical-offset="8" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2026" column="17" selection-start="50226" selection-end="50226" vertical-scroll-proportion="0.95679796" vertical-offset="33689" max-vertical-offset="35241">
+        <state line="1488" column="53" selection-start="31018" selection-end="31018" vertical-scroll-proportion="0.40162823" vertical-offset="25000" max-vertical-offset="35411">
           <folding />
         </state>
       </provider>
