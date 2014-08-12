@@ -1479,8 +1479,18 @@ ul.ads li {
 .loginPage img{margin-bottom:.8em; }
 section.loginPage{ overflow: initial; border-left:none!important; display: block;}
 .loginPage{ width:440px; overflow:hidden; margin:0 auto; text-align:center; padding:4em 0;  }
-.loginPage .loginForm{color:#d2dada; width: 440px; background-image: url(../images/background.jpg); margin:0 auto; padding:1em 0; position: relative; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; -webkit-box-shadow: 0 1px 2px #CCC; -moz-box-shadow: 0 1px 2px #CCC; box-shadow: 0 1px 2px #CCC;}
-.loginPage .loginForm .loginFormWrap{ background:url(../images/background.jpg); background-repeat:no-repeat; background-position:center center; margin:0 auto; width:90%; }
+.loginPage .loginForm{
+  color:#d2dada; width: 440px;
+ background-image: url(../images/bg1.png);
+  margin:0 auto; padding:1em 0; position: relative;
+  -webkit-border-radius: 3px; -moz-border-radius: 3px;
+  border-radius: 3px; -webkit-box-shadow: 0 1px 2px #CCC;
+  -moz-box-shadow: 0 1px 2px #CCC; box-shadow: 0 1px 2px #CCC;}
+.loginPage .loginForm .loginFormWrap{
+  background-repeat:no-repeat;
+  background-position:center center;
+  margin:0 auto; width:90%;
+  background-image: url(../images/bg2.png);}
 .loginPage .loginForm .loginFormWrap .login{ text-align:left; width: 300px; margin: 0 auto; padding:2.5em 0 1em;}
 .loginPage .loginForm .loginFormWrap .login>span{font-size: 1.4em; text-shadow: 0 1px 1px #102c35; font-weight:normal;}
 .loginPage .loginForm .loginFormWrap .login .input-prepend {width:100%; margin: 1em 0; border:1px solid #3a5c5b; -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.07); -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.07);box-shadow: 0 1px 2px rgba(0,0,0,0.07); border-radius: 0 3px 3px 0; -webkit-border-radius: 0 3px 3px 0; background: #5f877d;}
