@@ -1,7 +1,7 @@
 'use strict'
 
 // Declare app level module which depends on filters, and services
-angular.module('Solutions.io', ['pascalprecht.translate', 'ui.bootstrap', 'pasvaz.bindonce', 'ui.router'])
+angular.module('Solutions', ['pascalprecht.translate', 'ui.bootstrap', 'pasvaz.bindonce', 'ui.router'])
 
   .config(['$translateProvider', '$stateProvider', '$urlRouterProvider', function($translateProvider, $stateProvider, $urlRouterProvider){
 
