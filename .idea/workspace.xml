@@ -23,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="1331" selection-end="1331" vertical-scroll-proportion="-15.038462" vertical-offset="102" max-vertical-offset="1207">
+            <state line="64" column="7" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.8436268" vertical-offset="446" max-vertical-offset="1241">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1407806317363" expanded="true" signature="1404:1559" placeholder="..." />
-                <marker date="1407806317363" expanded="true" signature="1497:1527" placeholder="..." />
+                <marker date="1407807741995" expanded="true" signature="1404:1559" placeholder="..." />
+                <marker date="1407807741995" expanded="true" signature="1497:1527" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1493" column="0" selection-start="30049" selection-end="30049" vertical-scroll-proportion="0.476493" vertical-offset="25006" max-vertical-offset="35598">
+            <state line="1493" column="0" selection-start="30049" selection-end="30049" vertical-scroll-proportion="0.0" vertical-offset="25006" max-vertical-offset="35598">
               <folding />
             </state>
           </provider>
@@ -109,9 +109,9 @@
         <option value="$PROJECT_DIR$/public/html/templates/renewPassword.html" />
         <option value="$PROJECT_DIR$/public/html/templates/mainLayout.html" />
         <option value="$PROJECT_DIR$/public/app.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/public/html/general/loginLayout.html" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -314,7 +314,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="17" width="1252" height="957" extended-state="0" />
+    <frame x="8" y="17" width="1252" height="957" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -359,8 +359,8 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1407806317363" expanded="true" signature="1404:1559" placeholder="..." />
-            <marker date="1407806317363" expanded="true" signature="1497:1527" placeholder="..." />
+            <marker date="1407807741995" expanded="true" signature="1404:1559" placeholder="..." />
+            <marker date="1407807741995" expanded="true" signature="1497:1527" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -600,22 +600,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1331" selection-end="1331" vertical-scroll-proportion="-15.038462" vertical-offset="102" max-vertical-offset="1207">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1407806317363" expanded="true" signature="1404:1559" placeholder="..." />
-            <marker date="1407806317363" expanded="true" signature="1497:1527" placeholder="..." />
-          </folding>
+        <state line="1493" column="0" selection-start="30049" selection-end="30049" vertical-scroll-proportion="0.0" vertical-offset="25006" max-vertical-offset="35598">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1493" column="0" selection-start="30049" selection-end="30049" vertical-scroll-proportion="0.476493" vertical-offset="25006" max-vertical-offset="35598">
-          <folding />
+        <state line="64" column="7" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.8436268" vertical-offset="446" max-vertical-offset="1241">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1407807741995" expanded="true" signature="1404:1559" placeholder="..." />
+            <marker date="1407807741995" expanded="true" signature="1497:1527" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
