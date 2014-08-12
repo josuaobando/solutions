@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="4" selection-start="1336" selection-end="1355" vertical-scroll-proportion="-15.692307" vertical-offset="102" max-vertical-offset="1207">
+            <state line="29" column="0" selection-start="1331" selection-end="1331" vertical-scroll-proportion="-15.038462" vertical-offset="102" max-vertical-offset="1207">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,19 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loginLayout.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="loginLayout.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/html/general/loginLayout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="23" selection-start="859" selection-end="859" vertical-scroll-proportion="0.59302324" vertical-offset="0" max-vertical-offset="816">
+            <state line="26" column="0" selection-start="835" selection-end="835" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1483" column="42" selection-start="29632" selection-end="29632" vertical-scroll-proportion="0.0" vertical-offset="25006" max-vertical-offset="35581">
+            <state line="1493" column="0" selection-start="30049" selection-end="30049" vertical-scroll-proportion="0.476493" vertical-offset="25006" max-vertical-offset="35598">
               <folding />
             </state>
           </provider>
@@ -110,8 +110,8 @@
         <option value="$PROJECT_DIR$/public/html/templates/mainLayout.html" />
         <option value="$PROJECT_DIR$/public/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/public/html/general/loginLayout.html" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
       </list>
     </option>
   </component>
@@ -593,16 +593,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+    <entry file="file://$PROJECT_DIR$/public/html/general/loginLayout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1483" column="42" selection-start="29632" selection-end="29632" vertical-scroll-proportion="0.0" vertical-offset="25006" max-vertical-offset="35581">
+        <state line="26" column="0" selection-start="835" selection-end="835" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="1336" selection-end="1355" vertical-scroll-proportion="-15.692307" vertical-offset="102" max-vertical-offset="1207">
+        <state line="29" column="0" selection-start="1331" selection-end="1331" vertical-scroll-proportion="-15.038462" vertical-offset="102" max-vertical-offset="1207">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -612,9 +612,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/html/general/loginLayout.html">
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="23" selection-start="859" selection-end="859" vertical-scroll-proportion="0.59302324" vertical-offset="0" max-vertical-offset="816">
+        <state line="1493" column="0" selection-start="30049" selection-end="30049" vertical-scroll-proportion="0.476493" vertical-offset="25006" max-vertical-offset="35598">
           <folding />
         </state>
       </provider>
