@@ -1481,16 +1481,15 @@ section.loginPage{ overflow: initial; border-left:none!important; display: block
 .loginPage{ width:440px; overflow:hidden; margin:0 auto; text-align:center; padding:4em 0;  }
 .loginPage .loginForm{
   color:#d2dada; width: 440px;
-  background-image: url(../images/bg1.png);
+  background-image: url(../images/bg2.png);
   margin:0 auto; padding:1em 0; position: relative;
   -webkit-border-radius: 3px; -moz-border-radius: 3px;
   border-radius: 3px; -webkit-box-shadow: 0 1px 2px #CCC;
   -moz-box-shadow: 0 1px 2px #CCC; box-shadow: 0 1px 2px #CCC;}
 .loginPage .loginForm .loginFormWrap{
-  background-repeat:no-repeat;
   background-position:center center;
   margin:0 auto; width:90%;
-  background-image: url(../images/bg2.png);
+  background-image: url(../images/bg1.png);
 }
 .loginPage .loginForm .loginFormWrap .login{ text-align:left; width: 300px; margin: 0 auto; padding:2.5em 0 1em;}
 .loginPage .loginForm .loginFormWrap .login>span{font-size: 1.4em; text-shadow: 0 1px 1px #102c35; font-weight:normal;}
